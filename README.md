@@ -1,2 +1,3 @@
-# 911 Calls Exploratory Data Analysis
- The purpose of this project is to do an exploratory data analysis on a dataset that contains 911 calls from Montgomery County, Pennsylvania.
+# Exploratory Data Analysis Using Python
+
+In this project we're going to perform an Exploratory Data Analysis of 911 Calls from Montgomery County, PA on the period from 2015 to 2020.
