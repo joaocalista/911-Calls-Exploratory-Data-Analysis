@@ -67,6 +67,16 @@ https://www.kaggle.com/datasets/mchirico/montcoalert
 - **addr**: String variable, General Address
 - **e**: String variable, Dummy variable, Index column (always 1)
 
+## Conclusions
+
+- Lower Merion has the most 911 calls (55490), followed by Abington (39947) and Norristown (37633).
+- EMS (Emergency Medical Services) department got the most 911 calls. It got more than half of the total calls (50.14%).
+- The coordinate (40.0972222, -75.3761952) is the most common for a 911 call; and it corresponds to an area close to a high school, in Upper Merion Township.
+- Vehicle accident is the most common reason for a 911 call.
+- The most common reason for a fire emergency is fire alarm.
+- The most common reason for EMS is fall victim, followed by respiratory emergency and cardiac emergency.
+- Friday and Wednesday are the most common days for a 911 call and there are more calls during 15:00h and 17:00h.
+
 
 ## References
 
