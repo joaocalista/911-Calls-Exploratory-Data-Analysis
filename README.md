@@ -57,15 +57,15 @@ https://www.kaggle.com/datasets/mchirico/montcoalert
 
 ## Feature Columns
 
-- **lat**: String variable, Latitude
-- **lng**: String variable, Longitude
+- **lat**: Float variable, Latitude
+- **lng**: Float variable, Longitude
 - **desc**: String variable, Description of the Emergency Call
-- **zip**: String variable, ZIP Code
+- **zip**: Float variable, ZIP Code
 - **title**: String variable, Title of Emergency
 - **timeStamp**: String variable, Date and time of the call, YYYY-MM-DD HH:MM:SS
 - **twp**: String variable, Township
 - **addr**: String variable, General Address
-- **e**: String variable, Dummy variable, Index column (always 1)
+- **e**: Integer variable, Dummy variable, Index column (always 1)
 
 ## Conclusions
 
