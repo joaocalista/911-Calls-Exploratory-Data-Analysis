@@ -55,7 +55,7 @@ by Mike Chirico. The link is provided below:
 
 https://www.kaggle.com/datasets/mchirico/montcoalert
 
-## Feature Columns
+## Columns
 
 - **lat**: Float variable, Latitude
 - **lng**: Float variable, Longitude
